@@ -50,7 +50,7 @@ Once the chat application is opened after completing the registration and login,
 4. Main.py contains first interface of registration and login, which is used to get users registered and login to the application
    
    
-# ****************************users.txt file contrains records like***************
+************users.txt file contrains records like***************
 Name            MobileNumber            username        password
-# ********************************************************************************   
+*****************************************************
    
