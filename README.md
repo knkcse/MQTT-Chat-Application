@@ -42,7 +42,7 @@ Once the chat application is opened after completing the registration and login,
 
 2.users.txt file is used to maintain our registered users. 
 
-3. ChatBox.py contains all the code that is responsible to implement the given application in the assignment
+3. ChatBox.py contains all the code that is responsible to implement the given application
 
 4. Main.py contains first interface of registration and login, which is used to get users registered and login to the application
    
