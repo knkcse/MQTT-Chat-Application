@@ -39,7 +39,7 @@ Once the chat application is opened after completing the registration and login,
 
 
 
-**************** Details about files and folders *************************8
+**************** Details about files and folders *************************
 
 1. userfiles folder contains files for each user to maintain their subscribed groups list. So that, when they go offline and come back then we can display the groups and messages for those groups .
  
@@ -49,8 +49,4 @@ Once the chat application is opened after completing the registration and login,
 
 4. Main.py contains first interface of registration and login, which is used to get users registered and login to the application
    
-   
-************users.txt file contrains records like***************
-Name            MobileNumber            username        password
-*****************************************************
-   
+  
