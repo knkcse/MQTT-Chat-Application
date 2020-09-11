@@ -15,7 +15,7 @@ Once the chat application is opened after completing the registration and login,
    sub/group/groupName
    
    [Note: Here groupName is any name that we want to create group chat. No predefined groups are exist. Imagened WhatsApp
-   groups. So we have subscribe for a new group name]
+   groups. So we have to subscribe for a new group name]
    
    
 2. TO PUBLISH MESSAGE TO GROUP
