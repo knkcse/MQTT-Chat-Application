@@ -42,7 +42,7 @@ Once the chat application is opened after completing the registration and login,
 # Details about files and folders
 1. userfiles folder contains files for each user to maintain their subscribed groups list. So that, when they go offline and come back then we can display the groups and messages for those groups .
  
- 2.users.txt file is used to maintain our registered users. 
+   2.users.txt file is used to maintain our registered users. 
 
 3. ChatBox.py contains all the code that is responsible to implement the given application in the assignment
 
