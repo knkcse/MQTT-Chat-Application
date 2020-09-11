@@ -1,4 +1,4 @@
-# To run our application
+# To run  application
 
 step1: You have to run your hivemq (install before hand, install mqtt in python) 
 
@@ -37,15 +37,10 @@ Once the chat application is opened after completing the registration and login,
    unsub/group/groupName
 
 
-
-
-# Details about files and folders
+# *Details about files and folders*
 1. userfiles folder contains files for each user to maintain their subscribed groups list. So that, when they go offline and come back then we can display the groups and messages for those groups .
- 
-  2.users.txt file is used to maintain our registered users. 
-
+2.users.txt file is used to maintain our registered users. 
 3. ChatBox.py contains all the code that is responsible to implement the given application in the assignment
-
 4. Main.py contains first interface of registration and login, which is used to get users registered and login to the application
    
   
