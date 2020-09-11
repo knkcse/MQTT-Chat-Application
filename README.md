@@ -14,7 +14,7 @@ Once the chat application is opened after completing the registration and login,
 1. TO SUBSCRIBE TO GROUP
    sub/group/groupName
    
-   [Note: Here groupName is any name that we want to create group chat. No predefined groups are exist. I imagened WhatsApp
+   [Note: Here groupName is any name that we want to create group chat. No predefined groups are exist. Imagened WhatsApp
    groups. So we have subscribe for a new group name]
    
    
